@@ -1,6 +1,6 @@
 <h1>calculadora_celtics_react</h1>
 
-Página web : https://calculadora-celtics.vercel.app/
+Página web : https://calculadora-celtics-react.vercel.app/
 
 Esta é uma calculadora personalizada, desenvolvida em React, inspirada no visual do time Boston Celtics!
 
